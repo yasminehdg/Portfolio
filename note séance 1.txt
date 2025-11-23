@@ -1,0 +1,12 @@
+1). Différence entre SI et PGI:
+- Le SI englobe le PGI ( 
+- le SI est ensemble de ressources qui permet de collecter stocker et traiter l info au sein d 'une organisation
+role: supporte la prise de decision la coordination et le contrôle des activité 
+-PGI ou ERP est un logiciel qui intègre et centralise les principales fonction de gestion d une entreprise 
+role: automatiser et harmoniser les processus en utilisant une base de données unique. exemple SAP ,Odoo, Sage X3, Oracle ERP
+2). Récap:
+- le SI est plus large il englobe tout ce qui traite l info 
+-Le PGI est un logiciel spécifique au sein du SI, conçu pour intégrer et gérer la plupart des processus de l entreprise 
+
+*tester odoo
+- Quand on fait de la vente le stock sera impacté
